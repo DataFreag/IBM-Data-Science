@@ -1,2 +1,2 @@
 # IBM Data Science Project
-Thank you😊
+Part of IBM Data Science Certification Course
